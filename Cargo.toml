@@ -1,8 +1,12 @@
 [package]
 name = "k8s-cert-manager"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
+authors = ["Lan Liang <gcslyp@gmail.com>"]
+license = "Apache-2.0"
+description = "kubernetes cert manager crds"
+repository = "https://github.com/liangyuanpeng/k8s-cert-manager-rs"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
